@@ -10,15 +10,15 @@ This is the code repository for [Mastering Python](https://www.packtpub.com/appl
 Python is a dynamic programming language. It is known for its high readability and hence it is often the first language learned by new programmers. Python being multi-paradigm, it can be used to achieve the same thing in different ways and it is compatible across different platforms. Even if you find writing Python code easy, writing code that is efficient, easy to maintain, and reuse is not so straightforward.
 
 This book covers the following exciting features:
-Create a virtualenv and start a new project 
-Understand how and when to use the functional programming paradigm 
-Get familiar with the different ways the decorators can be written in 
-Understand the power of generators and coroutines without digressing into lambda calculus 
-Create metaclasses and how it makes working with Python far easier 
-Generate HTML documentation out of documents and code using Sphinx 
-Learn how to track and optimize application performance, both memory and cpu 
-Use the multiprocessing library, not just locally but also across multiple machines 
-Get a basic understanding of packaging and creating your own libraries/applications 
+* Create a virtualenv and start a new project 
+* Understand how and when to use the functional programming paradigm 
+* Get familiar with the different ways the decorators can be written in 
+* Understand the power of generators and coroutines without digressing into lambda calculus 
+* Create metaclasses and how it makes working with Python far easier 
+* Generate HTML documentation out of documents and code using Sphinx 
+* Learn how to track and optimize application performance, both memory and cpu 
+* Use the multiprocessing library, not just locally but also across multiple machines 
+* Get a basic understanding of packaging and creating your own libraries/applications 
 
 If you feel this book is for you, get your [copy](https://www.amazon.com/dp/1-785-28972-1) today!
 
